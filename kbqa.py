@@ -1,7 +1,7 @@
 '''
 kbqa.py
 基于知识库的问答程序
-@Author: You Yue
+@Author: chengjian2018
 '''
 
 import os

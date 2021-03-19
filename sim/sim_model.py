@@ -1,7 +1,7 @@
 '''
 sim_model.py
 文本相似度模型
-@Author: You Yue
+@Author: chengjian2018
 '''
 
 import sys

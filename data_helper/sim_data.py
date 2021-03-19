@@ -1,7 +1,7 @@
 '''
 sim_data
 构建用于文本匹配任务的数据集（train & dev）
-@Author: You Yue
+@Author: chengjian2018
 '''
 
 import re

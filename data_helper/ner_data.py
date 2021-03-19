@@ -1,7 +1,7 @@
 '''
 ner_data
 构建用于命名实体识别任务的数据集（train & dev）
-@Author: You Yue
+@Author: chengjian2018
 '''
 
 import re

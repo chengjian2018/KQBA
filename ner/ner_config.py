@@ -1,7 +1,7 @@
 '''
 ner_config.py
 ner_model的配置信息，方便更改model_file
-@Author: You Yue
+@Author: chengjian2018
 '''
 
 vocab_file = 'bert/chinese_L-12_H-768_A-12/vocab.txt'

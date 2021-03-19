@@ -1,7 +1,7 @@
 '''
 run_sim.py
 文本相似度模型训练
-@Author: You Yue
+@Author: chengjian2018
 '''
 
 import sys

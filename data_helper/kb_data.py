@@ -1,7 +1,7 @@
 '''
 kb_data
 构建知识库
-@Author: You Yue
+@Author: chengjian2018
 '''
 
 from data_helper.data_config import *

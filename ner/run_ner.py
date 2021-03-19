@@ -1,7 +1,7 @@
 '''
 run_ner.py
 命名实体识别模型训练
-@Author: You Yue
+@Author: chengjian2018
 @Reference: Macan (https://github.com/macanv/BERT-BiLSTM-CRF-NER)
 '''
 

@@ -1,7 +1,7 @@
 '''
 ner_helper.py
 命名实体识别模型的组件
-@Author: You Yue
+@Author: chengjian2018
 @Reference: Macan (https://github.com/macanv/BERT-BiLSTM-CRF-NER)
 '''
 

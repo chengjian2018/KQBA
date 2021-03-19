@@ -1,7 +1,7 @@
 '''
 sim_helper.py
 文本相似度模型的组件
-@Author: You Yue
+@Author: chengjian2018
 '''
 
 import sys
