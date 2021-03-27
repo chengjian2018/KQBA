@@ -56,10 +56,10 @@ $ python kbqa.py
 
 效果如下：
 
-<img src='img/result1.png' width=400>
+<img src='img/result2.png' width=400>
 
 ## 环境
 
 - python 3.6.5
 - tensorflow 1.14
-- 云端训练：极客云-RTX 2080 Ti 双卡 Ryzen 9 3900X 24核32G 2TB SSD 网速D1000/U50
+- RTX 2080 Ti
