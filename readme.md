@@ -62,13 +62,12 @@ cd ..
 
 参数配置与结果
 ```
-batchsize = 64
+batchsize = 32
 learning_rate = 10-5
-global_step = 1625(2 epochs)
-eval_precision = 0.99915755
-eval_recall = 0.99987036
-eval_f = 0.976385
-loss = 0.5831084
+global_step = 12190(5 epochs)
+eval_accuracy = 0.9860696
+loss = 0.08594935
+eval_loss = 0.086046584
 ```
 进行线上的问答测试：
 
