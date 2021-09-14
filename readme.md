@@ -16,22 +16,22 @@
 
 数据集构建（请先更改```data_config.py```的MySQL配置）：
 
-```shell
-$ mkdir data/NER
-$ mkdir data/SIM
-$ cd data_helper
-$ python ner_data.py
-$ python sim_data.py
-$ python kb_data.py
-$ cd ..
+```
+mkdir data/NER
+mkdir data/SIM
+cd data_helper
+python ner_data.py
+python sim_data.py
+python kb_data.py
+cd ..
 ```
 
 训练命名实体识别模型（NER）：
 
-```shell
-$ cd ner
-$ mkdir output
-$ ./run_ner.sh
+```
+cd ner
+mkdir output
+sh ./run_ner.sh
 $ cd ..
 ```
 
@@ -39,19 +39,19 @@ $ cd ..
 
 训练文本相似度模型（SIM）：
 
-```shell
-$ cd sim
-$ mkdir output
-$ ./run_sim.sh
-$ cd ..
+```
+cd sim
+mkdir output
+sh ./run_sim.sh
+cd ..
 ```
 
 将```sim/sim_config.py```中的```model_file=model/xxxxxxx```更改为```sim/output/model```下的文件夹名称。
 
 进行线上的问答测试：
 
-```shell
-$ python kbqa.py
+```
+python kbqa.py
 ```
 
 效果如下：
