@@ -36,6 +36,8 @@ $ cd ..
 ```
 
 将```ner/ner_config.py```中的```model_file=model/xxxxxxx```更改为```ner/output/model```下的文件夹名称。
+batchsize:16,learning_rate:10-5
+global_step:1625(2 epochs),eval_precision:0.99915755,eval_recall:0.99987036,eval_f:0.976385
 
 训练文本相似度模型（SIM）：
 
@@ -47,7 +49,8 @@ cd ..
 ```
 
 将```sim/sim_config.py```中的```model_file=model/xxxxxxx```更改为```sim/output/model```下的文件夹名称。
-
+batchsize:64,learning_rate:10-5
+global_step:1625(2 epochs),eval_precision:0.99915755,eval_recall:0.99987036,eval_f:0.976385
 进行线上的问答测试：
 
 ```
