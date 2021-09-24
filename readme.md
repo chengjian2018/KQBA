@@ -6,6 +6,10 @@
 
 目前只用了知识库实现（MySQL），后续会钻研一下知识图谱。
 
+常规方法可以参考：
+1. [豆瓣影评问答](https://github.com/weizhixiaoyi/DouBan-KGQA) 
+2. [基于医疗知识图谱的问答系统](https://github.com/zhihao-chen/QASystemOnMedicalGraph)
+
 ## 运行说明
 
 下载文件：
