@@ -9,6 +9,7 @@
 常规方法可以参考：
 1. [豆瓣影评问答](https://github.com/weizhixiaoyi/DouBan-KGQA) 
 2. [基于医疗知识图谱的问答系统](https://github.com/zhihao-chen/QASystemOnMedicalGraph)
+3. [ccks2019-ckbqa-4th-codes](https://github.com/duterscmy/ccks2019-ckbqa-4th-codes)、[CCKS2018 CKBQA 1st 方案](https://github.com/songlei1994/ccks2018)、[中文知识图谱问答 CCKS2019 CKBQA - 参赛总结](https://blog.nowcoder.net/n/630128e8e6dd4be5947adbfde8dcea44)
 
 ## 运行说明
 
